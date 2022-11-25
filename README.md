@@ -1,2 +1,3 @@
 # Ethical-Hacking
-Some projects about Ethical Hacking / Cybersecurity 
+
+Projects coming soon, using mainly KaliLinux---
